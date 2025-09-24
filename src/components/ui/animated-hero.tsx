@@ -28,7 +28,7 @@ function AnimatedHero() {
         <div className="flex gap-6 py-8 lg:py-12 items-center justify-center flex-col">
           <div>
             <Button variant="secondary" size="sm" className="gap-4 bg-muted hover:bg-muted/80">
-              1.0 version is now live <MoveRight className="w-4 h-4" />
+              1.0 version is now live
             </Button>
           </div>
           <div className="flex gap-3 flex-col">
