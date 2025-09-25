@@ -48,7 +48,7 @@ const Header = () => {
               alt="ShipPages Logo" 
               className="h-8 w-auto rounded"
             />
-            <span className="text-xl font-bold text-gray-900">ShipPages</span>
+            <span className="text-xl font-bold text-gray-900">Your name here</span>
           </button>
 
           {/* Navigation Links - Hidden on mobile */}
